@@ -25,7 +25,7 @@ Android APP for configuring static IP on ethernet interface via USB ethernet ada
 - USB OTG ethernet adapter
 - [Shizuku](https://shizuku.rikka.app/) installed & running (one-time ADB setup)
 
-## Quick Start
+## Quick Start 
 
 1. Install [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) on your phone
 2. Start Shizuku via ADB (one-time):
