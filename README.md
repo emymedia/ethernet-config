@@ -19,7 +19,7 @@ Android APP for configuring static IP on ethernet interface via USB ethernet ada
 - 🌍 Built-in WebView for switch management pages
 - 📋 IP configuration profiles (save/load common configs)
 
-## Requirements
+## Requirements 
 
 - Android 12+ (API 31+)
 - USB OTG ethernet adapter
